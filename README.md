@@ -1,2 +1,2 @@
 # HelloWorld
-C'est un début
+C'est un petit début
